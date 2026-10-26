@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persistindo Dados com SQLite e FastAPI",
+      "description": "Amplie uma API REST de livros com armazenamento persistente em SQLite.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
