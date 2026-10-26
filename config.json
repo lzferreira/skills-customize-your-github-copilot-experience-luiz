@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Crie uma API REST para um catálogo de livros com FastAPI, validação e operações CRUD.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
